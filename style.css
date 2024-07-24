@@ -1,3 +1,54 @@
 :root{
   background-color: #F5F4F0;
+  font-family: "Open Sans", sans-serif;
 }
+
+#container{
+  box-sizing: border-box;
+  width: 1120px;
+  margin: 88px auto;
+
+}
+
+img{
+  margin: 0px;
+}
+
+h3{
+  color: #E1624F;
+  size: 16;
+}
+
+h1{
+  color: #1B1B1B;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+h2{
+  color: #1B1B1B;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+p{
+  color: #333333;
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+
+}
+
+li{
+font-size: 28px;
+font-weight: 700;
+color: #1B1B1B;
+}
+
