@@ -93,24 +93,19 @@ p{
 
 }
 
-li{
-font-size: 28px;
-font-weight: 700;
-color: #1B1B1B;
-margin: 0%;
-}
-
-
 ul{
-
-  color: #0C51A7;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
+  margin-top: 48px;
+  
 }
 
-ol, ul { margin: 0; padding: 0; }
+.titulo{
+  color: #1B1B1B;
+font-family: "Open Sans";
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
 
 
 
@@ -146,5 +141,22 @@ ol, ul { margin: 0; padding: 0; }
   font-weight: 400;
   line-height: normal;
   text-align: center;
+}
+
+footer{
+  margin-top: 0px;
+text-align: center;
+font-family: ali;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+margin-bottom: 48px;
+}
+
+footer img{
+  vertical-align: middle;
+  height: 10px;
+  width: 10px;
 }
 
